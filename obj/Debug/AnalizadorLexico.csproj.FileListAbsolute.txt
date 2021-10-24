@@ -1,0 +1,60 @@
+C:\Users\jonat\Desktop\this\Traductores 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jonat\Desktop\this\Traductores 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jonat\Desktop\this\Traductores 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jonat\Desktop\this\Traductores 2\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\this\Traductores 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form.resources
+C:\Users\jonat\Desktop\this\Traductores 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jonat\Desktop\this\Traductores 2\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\this\Traductores 2\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\this\Traductores 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jonat\Desktop\this\Traductores 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\jonat\Desktop\this\Sem_Trad2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jonat\Desktop\this\Sem_Trad2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jonat\Desktop\this\Sem_Trad2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jonat\Desktop\this\Sem_Trad2\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\this\Sem_Trad2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form.resources
+C:\Users\jonat\Desktop\this\Sem_Trad2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jonat\Desktop\this\Sem_Trad2\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\this\Sem_Trad2\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\this\Sem_Trad2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jonat\Desktop\this\Sem_Trad2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\jonat\Desktop\this\Trad2\SEM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jonat\Desktop\this\Trad2\SEM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jonat\Desktop\this\Trad2\SEM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jonat\Desktop\this\Trad2\SEM\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\this\Trad2\SEM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form.resources
+C:\Users\jonat\Desktop\this\Trad2\SEM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jonat\Desktop\this\Trad2\SEM\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\this\Trad2\SEM\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\this\Trad2\SEM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jonat\Desktop\this\Trad2\SEM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\jonat\Desktop\this\Trad2\Programas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jonat\Desktop\this\Trad2\Programas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jonat\Desktop\this\Trad2\Programas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jonat\Desktop\this\Trad2\Programas\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\this\Trad2\Programas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form.resources
+C:\Users\jonat\Desktop\this\Trad2\Programas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jonat\Desktop\this\Trad2\Programas\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\this\Trad2\Programas\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\this\Trad2\Programas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jonat\Desktop\this\Trad2\Programas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\jonat\Desktop\Semestre_Act\Trad2\Programas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jonat\Desktop\Semestre_Act\Trad2\Programas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jonat\Desktop\Semestre_Act\Trad2\Programas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jonat\Desktop\Semestre_Act\Trad2\Programas\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\Semestre_Act\Trad2\Programas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form.resources
+C:\Users\jonat\Desktop\Semestre_Act\Trad2\Programas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jonat\Desktop\Semestre_Act\Trad2\Programas\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\Semestre_Act\Trad2\Programas\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Semestre_Act\Trad2\Programas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jonat\Desktop\Semestre_Act\Trad2\Programas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Semestre_Act\Trad2\Programas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Semestre_Act\Trad2\Programas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Semestre_Act\Trad2\Programas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Semestre_Act\Trad2\Programas\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+D:\Semestre_Act\Trad2\Programas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form.resources
+D:\Semestre_Act\Trad2\Programas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Semestre_Act\Trad2\Programas\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+D:\Semestre_Act\Trad2\Programas\WindowsFormsApp1\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+D:\Semestre_Act\Trad2\Programas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Semestre_Act\Trad2\Programas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrielSemantico", "UrielSemantico.csproj", "{995D9B31-FE03-44A5-992C-CCFFE2E31359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{995D9B31-FE03-44A5-992C-CCFFE2E31359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995D9B31-FE03-44A5-992C-CCFFE2E31359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995D9B31-FE03-44A5-992C-CCFFE2E31359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995D9B31-FE03-44A5-992C-CCFFE2E31359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C3783ED-0F8D-4FDF-8D73-1993884A91C3}
+	EndGlobalSection
+EndGlobal

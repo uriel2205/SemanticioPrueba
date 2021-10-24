@@ -1,0 +1,10 @@
+C:\Users\URIEL\Music\UrielSemantico\SemanticoUriel\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\URIEL\Music\UrielSemantico\SemanticoUriel\bin\Debug\WindowsFormsApp1.exe
+C:\Users\URIEL\Music\UrielSemantico\SemanticoUriel\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\URIEL\Music\UrielSemantico\SemanticoUriel\obj\Debug\UrielSemantico.csproj.AssemblyReference.cache
+C:\Users\URIEL\Music\UrielSemantico\SemanticoUriel\obj\Debug\WindowsFormsApp1.Form.resources
+C:\Users\URIEL\Music\UrielSemantico\SemanticoUriel\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\URIEL\Music\UrielSemantico\SemanticoUriel\obj\Debug\UrielSemantico.csproj.GenerateResource.cache
+C:\Users\URIEL\Music\UrielSemantico\SemanticoUriel\obj\Debug\UrielSemantico.csproj.CoreCompileInputs.cache
+C:\Users\URIEL\Music\UrielSemantico\SemanticoUriel\obj\Debug\WindowsFormsApp1.exe
+C:\Users\URIEL\Music\UrielSemantico\SemanticoUriel\obj\Debug\WindowsFormsApp1.pdb
